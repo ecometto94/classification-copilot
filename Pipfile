@@ -11,6 +11,7 @@ streamlit = "==1.45.0"
 [dev-packages]
 ipykernel = "==6.29.5"
 pytest = "==8.3.5"
+pre-commit = "==4.2.0"
 
 [requires]
 python_version = "3.11"
